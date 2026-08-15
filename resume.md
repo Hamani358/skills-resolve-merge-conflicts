@@ -4,7 +4,7 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Experience
 
-### GitHub Trainer
+### GitHub Trainer      
 
 Teach all things Git, give away all the stickers, ensure world peace.
 
@@ -21,4 +21,5 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+
 - Contributed to open source projects
